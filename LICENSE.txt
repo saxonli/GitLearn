@@ -1,2 +1,6 @@
-HELLO && HELLO
+<<<<<<< HEAD
+HELLO and HI
+=======
+HELLO and HI
+>>>>>>> feature1
 LICENSE is a word.
