@@ -1,2 +1,2 @@
-HELLO!
+HELLO && HELLO
 LICENSE is a word.
